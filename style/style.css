@@ -159,6 +159,7 @@ main {
     height: 170px;
     width: 700px;
     align-items: flex-start;
+    margin-top: 3rem;
   }
 
   .space p {
